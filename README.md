@@ -7,11 +7,10 @@ Possuo também formação técnica em informática pela ETEC - Centro Paula Souz
 <p>
 Além disso tenho conhecimento avançado em inglês, resultado dos 5 anos de estudo escola de idiomas Yázigi, no qual utilizo diariamente, seja na área acadêmica ou no meu tempo livre.
 <p> 
-Procuro mostrar aqui no
  
  ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
  
- projetos que fiz na faculdade ou tempo livre, para que sejam de utilidade para quem se interessar.
+ Procuro disponibilizar os projetos que fiz na faculdade ou no meu tempo livre, para que sejam de utilidade a quem se interessar.
 <p>
   
 ## Linguagens principais que utilizo:
@@ -25,7 +24,7 @@ Procuro mostrar aqui no
 ## Extra:
   Possuo conhecimento intermediário em:
   <p>
-  Edição de imagem pelo&nbsp;
    
   ![](https://aleen42.github.io/badges/src/photoshop.svg)&nbsp;
-  e vídeo pelo Sony Vegas.
+  <p>
+  Edição de áudio e vídeo pelo Sony Vegas.
