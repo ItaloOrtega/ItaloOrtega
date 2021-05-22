@@ -8,7 +8,8 @@ Além disso tenho conhecimento avançado em inglês, resultado dos 5 anos de est
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white);
 Procuro mostrar aqui no GitHub projetos que fiz na faculdade ou tempo livre, para que sejam de utilidade para quem se interessar.
 <p>
-##Linguagens principais que utilizo:
+  
+## Linguagens principais que utilizo:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
