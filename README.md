@@ -25,7 +25,7 @@ Procuro mostrar aqui no
 ## Extra:
   Possuo conhecimento intermediário em:
   <p>
-  Edição de imagens pelo
+  Edição de imagens pelo &nbsp;
    
   ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)&nbsp;
    
