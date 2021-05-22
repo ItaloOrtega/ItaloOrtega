@@ -25,6 +25,6 @@ Procuro mostrar aqui no
 ## Extra:
   Possuo conhecimento intermediário em:
   <p>
-  Edição de imagens pelo&nbsp![](https://aleen42.github.io/badges/src/photoshop.svg)
+  Edição de imagens pelo&nbsp ![](https://aleen42.github.io/badges/src/photoshop.svg)
   <p>
   Edição de áudio e vídeo pelo Sony Vegas.
