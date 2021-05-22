@@ -2,11 +2,13 @@
 
 ### Minhas informações:
 <p>
-Tenho 21 anos e sou estudante de Ciência da Computação, onde me encontro no 5º Semestre|3º Ano, no IBILCE - UNESP, possuo também formação técnica em informática pela ETEC - Centro Paula Souza.
+Tenho 21 anos e sou estudante de Ciência da Computação, onde me encontro no 5º Semestre|3º Ano, no IBILCE - UNESP.
+Possuo também formação técnica em informática pela ETEC - Centro Paula Souza.
 <p>
 Além disso tenho conhecimento avançado em inglês, resultado dos 5 anos de estudo escola de idiomas Yázigi, no qual utilizo diariamente, seja na área acadêmica ou no meu tempo livre.
 <p>
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+  
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 Procuro mostrar aqui no GitHub projetos que fiz na faculdade ou tempo livre, para que sejam de utilidade para quem se interessar.
 <p>
   
