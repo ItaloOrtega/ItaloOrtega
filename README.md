@@ -22,7 +22,7 @@ Além disso tenho conhecimento avançado em inglês, resultado dos 5 anos de est
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
 ## Extra:
-### Possuo conhecimento intermediário em:
+#### Possuo conhecimento intermediário em:
   <p>
    
   ![](https://aleen42.github.io/badges/src/photoshop.svg)&nbsp;
