@@ -1,6 +1,6 @@
-## Hi there! My name's Ítalo Ortega and welcome to my profile!
+# Hi there! My name's Ítalo Ortega and welcome to my profile!
 
-### Minhas informações:
+## Minhas informações:
 <p>
 Tenho 21 anos e sou estudante de Ciência da Computação, onde me encontro no 5º Semestre|3º Ano, no IBILCE - UNESP.
 Possuo também formação técnica em informática pela ETEC - Centro Paula Souza.
@@ -22,7 +22,7 @@ Além disso tenho conhecimento avançado em inglês, resultado dos 5 anos de est
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
 ## Extra:
-#### Possuo conhecimento intermediário em:
+### Possuo conhecimento intermediário em:
   <p>
    
   ![](https://aleen42.github.io/badges/src/photoshop.svg)&nbsp;
