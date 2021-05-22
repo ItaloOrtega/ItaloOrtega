@@ -27,6 +27,6 @@ Procuro mostrar aqui no
   <p>
   Edição de imagens pelo&nbsp;
    
-  ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)&nbsp;
+  ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
   <p>
   Edição de áudio e vídeo pelo Sony Vegas.
