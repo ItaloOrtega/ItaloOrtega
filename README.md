@@ -26,6 +26,7 @@ Procuro mostrar aqui no
   Possuo conhecimento intermediário em:
   <p>
   Edição de imagens pelo
+   
   ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)&nbsp;
    
   <p>
