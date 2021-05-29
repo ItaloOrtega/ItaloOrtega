@@ -31,3 +31,6 @@ Além disso tenho conhecimento avançado em inglês, resultado dos 5 anos de est
   ![](https://aleen42.github.io/badges/src/photoshop.svg)&nbsp;
   <p>
   Edição de áudio e vídeo pelo Sony Vegas.
+   
+## Contato:
+![www.linkedin.com/in/ItaloOFC](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
