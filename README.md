@@ -4,7 +4,7 @@
 <p>
 Tenho 21 anos, nascido dia 10 de janeiro de 2000.
 <p>
-Sou estudante de Bacharelado Ciência da Computação, onde me encontro no 5º Semestre|3º Ano, nna Universidade Estadual Paulista, UNESP, no campus do IBILCE, em Sâo José do Rio Preto.
+Sou estudante de Bacharelado Ciência da Computação, onde me encontro no 5º Semestre|3º Ano, na Universidade Estadual Paulista, UNESP, no campus do IBILCE, em São José do Rio Preto.
 <p>
 Possuo também formação técnica em informática pela ETEC - Centro Paula Souza, onde fiz meu junto com o meu ensino médio.
 <p>
