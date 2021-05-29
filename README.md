@@ -1,4 +1,4 @@
-# Hi there! My name's Ítalo Ortega and welcome to my profile!
+# 🖥️Hi there! My name's Ítalo Ortega and welcome to my profile!💻
 
 ## Minhas informações:
 <p>
