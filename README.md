@@ -33,5 +33,5 @@ Além disso tenho conhecimento avançado em inglês, resultado dos 5 anos de est
   Edição de áudio e vídeo pelo Sony Vegas.
    
 ## Contato:
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
- : www.linkedin.com/in/ItaloOFC
+### ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
+www.linkedin.com/in/ItaloOFC
