@@ -34,4 +34,4 @@ Além disso tenho conhecimento avançado em inglês, resultado dos 5 anos de est
    
 ## Contato:
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
-www.linkedin.com/in/ItaloOFC
+ : www.linkedin.com/in/ItaloOFC
